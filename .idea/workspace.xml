@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5fd129b-4ede-478c-b518-b95acb9c13d5" name="Default Changelist" comment="" />
+    <list default="true" id="b5fd129b-4ede-478c-b518-b95acb9c13d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +17,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V9PoRBasqmUMf2Lve7Lgse4kaM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -70,10 +80,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="381" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577193207111" />
-    <state x="341" y="163" key="run.anything.popup" timestamp="1576926698233">
+    <state x="341" y="163" key="run.anything.popup" timestamp="1577195408276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="341" y="163" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576926698233" />
+    <state x="341" y="163" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577195408276" />
     <state x="348" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577105418686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

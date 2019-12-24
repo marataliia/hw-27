@@ -22,9 +22,9 @@ public class City extends AbstractLocality {
     }
 
     public String findMayor(String name) {
-        if (name == "Азиз Суракматов") {
+        if (name.equals("Азиз Суракматов")) {
             return "Бишкек";
-        } else if (name == "Нурбек Молдокадыров") {
+        } else if (name.equals("Нурбек Молдокадыров")) {
             return "Нарын";
         }
 
